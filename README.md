@@ -71,7 +71,7 @@ This section will follow soon.
 <!-- CONTACT -->
 ## 📨 Contact
 
-Tim Breunig - [https://timbreunig.de/](Portfolio) - [https://www.linkedin.com/in/tim-breunig/](LinkedIn) - breunig.tim@web.de
+Tim Breunig - [Portfolio](https://timbreunig.de/) - [LinkedIn](https://www.linkedin.com/in/tim-breunig/) - breunig.tim@web.de
 
 Project Link: [https://github.com/TimBreunig/Expiravoid.git](https://github.com/TimBreunig/Expiravoid.git)
 
